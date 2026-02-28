@@ -1,31 +1,29 @@
 # FireChat
 
-A Flutter chat application using Firebase, Realtime Database, and push notifications.
-
-## Description
-
-FireChat is a real-time chat application built with Flutter and Firebase.  
-It allows users to:
-- Sign up and log in securely.
-- Send and receive messages in real-time.
-- Upload and display user profile images.
-- Receive push notifications for new messages.
-
-This project was developed to learn Firebase integration, Realtime Database usage, and Flutter app development.
+**FireChat** is a Flutter chat application using Firebase, Realtime Database, and push notifications. The project demonstrates practical usage of **Firebase Realtime Database**, **push notifications**, and **Flutter UI development**, providing an interactive and real-time chat experience.
 
 ## Features
 
-- User authentication (Sign up / Login)
-- Realtime chat using Firebase Realtime Database
-- Push notifications
-- Profile image upload
-- Form validation with proper error messages
+- User authentication (Sign up / Login)  
+- Realtime chat using Firebase Realtime Database  
+- Push notifications  
+- Profile image upload  
+- Form validation with proper error messages  
 
 ## Getting Started
 
-To get a copy of the project up and running locally:
+This project is built with Flutter and demonstrates integration with Firebase and real-time chat functionality.
 
-1. Clone the repository and navigate into the project directory:
+### Prerequisites
+
+- Flutter SDK installed  
+- Dart  
+- An IDE like **VS Code** or **Android Studio**  
+
+### Installation
+
+1. Clone the repository and navigate into the project directory, then install dependencies and run the project:
+```bash
 git clone https://github.com/MenaFarhat/FireChat.git
 cd FireChat
 flutter pub get
