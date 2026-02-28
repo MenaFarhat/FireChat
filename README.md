@@ -25,6 +25,8 @@ This project was developed to learn Firebase integration, Realtime Database usag
 
 To get a copy of the project up and running locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MinaFarhat/FireChat.git
+1. Clone the repository and navigate into the project directory:
+git clone https://github.com/MenaFarhat/FireChat.git
+cd FireChat
+flutter pub get
+flutter run
